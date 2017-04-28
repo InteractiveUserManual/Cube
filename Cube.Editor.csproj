@@ -173,6 +173,9 @@
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\IndustrialMaterialPack\Shaders\S_PBR_01.shader" />
+    <None Include="Assets\IndustrialMaterialPack\Shaders\S_PBR_01_NONM.shader" />
+    <None Include="Assets\IndustrialMaterialPack\Shaders\ShaderReadme.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
