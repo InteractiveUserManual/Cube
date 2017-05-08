@@ -173,6 +173,8 @@
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Day-Night Skyboxes\Textures\Readme for Assigning.txt" />
+    <None Include="Assets\Day-Night Skyboxes\readme.txt" />
     <None Include="Assets\IndustrialMaterialPack\Shaders\S_PBR_01.shader" />
     <None Include="Assets\IndustrialMaterialPack\Shaders\S_PBR_01_NONM.shader" />
     <None Include="Assets\IndustrialMaterialPack\Shaders\ShaderReadme.txt" />
